@@ -1813,3 +1813,107 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01May2025 20:42:24.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaqvdsl[/127.104.240.207:52163] logged in with entity id 228 at (-9.028735827180697, 100.0, 5.465153451382267)
 [01May2025 20:42:25.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaqvdsl joined the game
 [01May2025 20:42:25.495] [Server thread/INFO] [ping-wheel/]: Channel update: joaqvdsl -> default
+[01May2025 20:43:07.085] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 20:44:15.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 20:44:49.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaqvdsl has made the advancement [Monster Hunter]
+[01May2025 20:44:58.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 20:44:59.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 20:45:35.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 20:46:01.737] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.740] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.740] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.741] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.742] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.743] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.743] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.743] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.744] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.744] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.745] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.745] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:01.745] [Worker-Main-22/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.442] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.443] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.443] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.444] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.444] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.444] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.445] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.445] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.446] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.446] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.446] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:05.447] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[01May2025 20:46:18.447] [Worker-Main-24/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[01May2025 20:47:05.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 20:47:31.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 20:47:44.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaqvdsl has made the advancement [Stone Age]
+[01May2025 20:48:36.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElM3si4s[/127.175.4.117:46473] logged in with entity id 2566 at (0.5, 100.0, 4.5)
+[01May2025 20:48:36.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s joined the game
+[01May2025 20:48:41.115] [Server thread/INFO] [ping-wheel/]: Channel update: ElM3si4s -> default
+[01May2025 20:48:57.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 20:49:02.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 20:49:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s died
+[01May2025 20:49:53.968] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[01May2025 20:49:53.969] [Netty Epoll Server IO #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@33c02d0f[id=<null>,name=farclet,properties={},legacy=false] (/127.83.119.51:34757): Unexpected custom data from client
+[01May2025 20:49:53.988] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33c02d0f[id=<null>,name=farclet,properties={},legacy=false] (/127.83.119.51:34757) lost connection: Unexpected custom data from client
+[01May2025 20:50:27.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s was doomed to fall
+[01May2025 20:51:21.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s has made the advancement [Monster Hunter]
+[01May2025 20:51:55.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 20:52:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaqvdsl has made the advancement [Getting an Upgrade]
+[01May2025 20:52:15.690] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3137c86e[id=<null>,name=farclet,properties={},legacy=false] (/127.83.119.51:40821) lost connection: Disconnected
+[01May2025 20:52:20.954] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[01May2025 20:52:20.954] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@29986567[id=<null>,name=farclet,properties={},legacy=false] (/127.83.119.51:51809): Unexpected custom data from client
+[01May2025 20:52:20.990] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@29986567[id=<null>,name=farclet,properties={},legacy=false] (/127.83.119.51:51809) lost connection: Unexpected custom data from client
+[01May2025 20:52:33.240] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7fcbc64e[id=<null>,name=farclet,properties={},legacy=false] (/127.83.119.51:36775) lost connection: Disconnected
+[01May2025 20:52:34.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s was slain by Runner
+[01May2025 20:53:00.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s was slain by Runner
+[01May2025 20:53:05.282] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 20:53:17.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 20:53:28.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s was slain by Runner
+[01May2025 20:54:00.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 20:54:01.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s was slain by Runner
+[01May2025 20:54:04.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 20:54:23.782] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 20:55:13.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaqvdsl hit the ground too hard
+[01May2025 20:56:02.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s was doomed to fall by joaqvdsl
+[01May2025 20:57:24.882] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 20:57:35.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 20:58:27.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElM3si4s lost connection: Disconnected
+[01May2025 20:58:27.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s left the game
+[01May2025 21:00:27.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 21:03:26.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 21:03:35.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 21:05:42.832] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 21:06:18.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaqvdsl lost connection: Disconnected
+[01May2025 21:06:18.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaqvdsl left the game
+[01May2025 21:07:00.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElM3si4s[/127.175.4.117:39799] logged in with entity id 7538 at (-36.62962511911528, 81.0, 45.28205103103307)
+[01May2025 21:07:00.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s joined the game
+[01May2025 21:07:04.773] [Server thread/INFO] [ping-wheel/]: Channel update: ElM3si4s -> default
+[01May2025 21:07:21.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: farclet[/127.83.119.51:48147] logged in with entity id 7549 at (2.5, 101.0, 3.5)
+[01May2025 21:07:21.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet joined the game
+[01May2025 21:07:22.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 21:07:24.951] [Server thread/INFO] [ping-wheel/]: Channel update: farclet -> default
+[01May2025 21:07:49.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaqvdsl[/127.104.240.207:36957] logged in with entity id 7726 at (-187.69999998807907, 76.0, -108.69999998807907)
+[01May2025 21:07:49.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaqvdsl joined the game
+[01May2025 21:07:50.006] [Server thread/INFO] [ping-wheel/]: Channel update: joaqvdsl -> default
+[01May2025 21:09:18.333] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 21:09:30.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 21:09:40.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet died
+[01May2025 21:09:51.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet was shot by Explosive Zombie
+[01May2025 21:10:01.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 21:10:11.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 21:10:35.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 21:10:36.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaqvdsl lost connection: Disconnected
+[01May2025 21:10:37.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaqvdsl left the game
+[01May2025 21:11:25.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet has made the advancement [Stone Age]
+[01May2025 21:11:28.430] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 21:11:57.881] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 21:12:33.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet was shot by Skeleton
+[01May2025 21:12:36.282] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 21:12:36.282] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 21:12:56.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet has made the advancement [Monster Hunter]
+[01May2025 21:12:58.630] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 21:12:59.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 21:13:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet has made the advancement [Getting an Upgrade]
+[01May2025 21:13:34.235] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14b27310[id=<null>,name=joaqvdsl,properties={},legacy=false] (/127.104.240.207:55779) lost connection: Disconnected
