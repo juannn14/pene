@@ -1917,3 +1917,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01May2025 21:12:59.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [01May2025 21:13:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet has made the advancement [Getting an Upgrade]
 [01May2025 21:13:34.235] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14b27310[id=<null>,name=joaqvdsl,properties={},legacy=false] (/127.104.240.207:55779) lost connection: Disconnected
+[01May2025 21:14:09.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElM3si4s lost connection: Disconnected
+[01May2025 21:14:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s left the game
+[01May2025 21:14:21.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 21:14:56.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[01May2025 21:14:56.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule keepinventory true<--[HERE]
+[01May2025 21:15:08.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 21:15:14.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 21:15:21.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[01May2025 21:15:21.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule keepinventory true<--[HERE]
+[01May2025 21:15:50.482] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 21:15:54.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule keepInventory is now set to: true
+[01May2025 21:15:59.530] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 21:16:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet hit the ground too hard
+[01May2025 21:16:14.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElM3si4s[/127.175.4.117:35695] logged in with entity id 10682 at (9.849112196777376, 103.0, 26.229920272109165)
+[01May2025 21:16:14.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s joined the game
+[01May2025 21:16:14.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 21:16:14.704] [Server thread/INFO] [ping-wheel/]: Channel update: ElM3si4s -> default
+[01May2025 21:16:46.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s has made the advancement [Stone Age]
+[01May2025 21:17:01.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 21:17:01.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 21:17:12.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet fell from a high place
+[01May2025 21:17:19.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s has made the advancement [Getting an Upgrade]
+[01May2025 21:17:34.339] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d282ca9[id=<null>,name=joaqvdsl,properties={},legacy=false] (/127.104.240.207:48719) lost connection: Disconnected
+[01May2025 21:17:43.000] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaqvdsl[/127.104.240.207:51949] logged in with entity id 11212 at (-206.69999998807907, 77.0, -87.5378749925529)
+[01May2025 21:17:43.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaqvdsl joined the game
+[01May2025 21:17:43.448] [Server thread/INFO] [ping-wheel/]: Channel update: joaqvdsl -> default
+[01May2025 21:17:43.632] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 21:17:43.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 21:20:48.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s was shot by Skeleton
+[01May2025 21:21:14.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElM3si4s lost connection: Timed out
+[01May2025 21:21:14.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s left the game
+[01May2025 21:22:06.538] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26b370ce[id=<null>,name=ElM3si4s,properties={},legacy=false] (/127.175.4.117:43847) lost connection: Disconnected
+[01May2025 21:22:21.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElM3si4s[/127.175.4.117:51027] logged in with entity id 13040 at (5.5, 102.0, 5.5)
+[01May2025 21:22:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s joined the game
+[01May2025 21:22:21.608] [Server thread/INFO] [ping-wheel/]: Channel update: ElM3si4s -> default
+[01May2025 21:22:22.384] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 21:22:37.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s was slain by Runner
+[01May2025 21:22:40.635] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 21:23:58.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaqvdsl has made the advancement [Acquire Hardware]
+[01May2025 21:24:02.633] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 21:24:11.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
