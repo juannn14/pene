@@ -865,3 +865,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01May2025 23:11:04.059] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [01May2025 23:12:31.658] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [01May2025 23:12:46.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported farclet to ElM3si4s
+[01May2025 23:13:57.756] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 23:14:02.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 23:14:03.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaqvdsl lost connection: Disconnected
+[01May2025 23:14:03.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaqvdsl left the game
+[01May2025 23:14:18.156] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 23:14:40.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 23:16:15.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 23:19:07.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s drowned
+[01May2025 23:19:07.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet was slain by Runner
+[01May2025 23:19:36.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported farclet to ElM3si4s
+[01May2025 23:22:04.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: farclet lost connection: Disconnected
+[01May2025 23:22:04.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet left the game
+[01May2025 23:22:10.256] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 23:23:15.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElM3si4s lost connection: Disconnected
+[01May2025 23:23:15.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s left the game
