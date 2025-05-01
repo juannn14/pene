@@ -12,6 +12,8 @@
       "minecraft:birch_forest": "2025-05-01 22:41:59 +0000",
       "minecraft:dark_forest": "2025-05-01 21:00:06 +0000",
       "minecraft:river": "2025-05-01 20:46:20 +0000",
+      "minecraft:cold_ocean": "2025-05-01 23:08:23 +0000",
+      "minecraft:forest": "2025-05-01 23:05:58 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-01 22:36:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 20:54:28 +0000",
       "minecraft:meadow": "2025-05-01 19:01:03 +0000",
@@ -1352,6 +1354,7 @@
       "cooked_mutton": "2025-05-01 21:42:12 +0000",
       "sweet_berries": "2025-05-01 21:42:35 +0000",
       "beef": "2025-05-01 21:35:55 +0000",
+      "apple": "2025-05-01 23:06:08 +0000",
       "potato": "2025-05-01 22:37:29 +0000",
       "bread": "2025-05-01 22:18:17 +0000",
       "rotten_flesh": "2025-05-01 20:45:56 +0000",
@@ -3966,6 +3969,54 @@
   "zombiekit:leon": {
     "criteria": {
       "leon": "2025-05-01 22:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-01 23:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-01 23:05:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-05-01 23:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-01 23:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-01 23:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-01 23:05:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-05-01 23:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-01 23:03:27 +0000"
     },
     "done": true
   },

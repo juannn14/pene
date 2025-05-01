@@ -845,3 +845,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01May2025 22:58:27.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [01May2025 22:58:59.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported joaqvdsl to ElM3si4s
 [01May2025 22:59:55.156] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 23:04:53.856] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 23:04:59.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s has made the advancement [Best Friends Forever]
+[01May2025 23:05:40.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 23:06:56.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: farclet[/127.83.119.51:38055] logged in with entity id 73525 at (-625.7929065720069, 67.0, 324.3726923767038)
+[01May2025 23:06:56.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet joined the game
+[01May2025 23:07:01.780] [Server thread/INFO] [ping-wheel/]: Channel update: farclet -> default
+[01May2025 23:08:03.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet died
+[01May2025 23:08:12.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s was crushed by a falling tree
+[01May2025 23:08:45.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet died
+[01May2025 23:08:48.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[01May2025 23:08:49.360] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 23:09:13.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElM3si4s to joaqvdsl
+[01May2025 23:09:26.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 23:09:56.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s fell from a high place
+[01May2025 23:10:20.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ElM3si4s to joaqvdsl
+[01May2025 23:10:20.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet died
+[01May2025 23:10:30.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79037, l='ServerLevel[world]', x=-671.06, y=128.00, z=399.19] died, message: 'Villager froze to death'
+[01May2025 23:11:04.059] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[01May2025 23:12:31.658] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[01May2025 23:12:46.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported farclet to ElM3si4s

@@ -26,6 +26,7 @@
       "minecraft:stony_shore": "2025-05-01 22:40:29 +0000",
       "minecraft:forest": "2025-05-01 22:42:31 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-01 22:36:26 +0000",
+      "minecraft:snowy_beach": "2025-05-01 23:06:18 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 21:18:42 +0000",
       "minecraft:meadow": "2025-05-01 20:48:37 +0000",
       "minecraft:plains": "2025-05-01 22:43:29 +0000"
@@ -2217,6 +2218,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-01 23:00:34 +0000",
       "cooked_mutton": "2025-05-01 21:24:33 +0000",
       "bread": "2025-05-01 22:19:56 +0000",
       "rotten_flesh": "2025-05-01 21:46:17 +0000",
@@ -2513,6 +2515,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-01 23:02:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 22:30:35 +0000"
@@ -2639,6 +2647,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 23:02:42 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/iron_ingot": {
     "criteria": {
       "has_copper_block": "2025-05-01 22:30:35 +0000"
@@ -2750,6 +2764,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-01 22:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-01 23:04:59 +0000"
     },
     "done": true
   },
@@ -3041,9 +3061,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-01 23:02:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-01 22:59:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-05-01 22:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-01 23:02:42 +0000"
     },
     "done": true
   },
@@ -3383,6 +3421,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-05-01 23:02:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-05-01 22:30:35 +0000"
@@ -3575,6 +3619,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-01 22:59:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 22:30:35 +0000"
@@ -3671,6 +3721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-01 22:59:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-05-01 22:11:21 +0000"
@@ -3728,6 +3784,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 22:30:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-01 23:02:42 +0000"
     },
     "done": true
   },
