@@ -10677,3 +10677,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [01May2025 23:22:10.256] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [01May2025 23:23:15.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElM3si4s lost connection: Disconnected
 [01May2025 23:23:15.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElM3si4s left the game
+[01May2025 23:23:48.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01May2025 23:23:48.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /s/stop<--[HERE]
+[01May2025 23:24:28.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 23:24:28.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 23:29:28.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 23:29:28.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
