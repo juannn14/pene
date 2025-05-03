@@ -8919,3 +8919,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 13:47:44.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [03May2025 13:48:46.715] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [03May2025 13:49:50.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 13:50:46.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 13:50:46.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 13:51:07.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[03May2025 13:53:16.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set LJu4nn_L's game mode to Creative Mode
+[03May2025 13:53:19.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 13:53:50.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 13:53:50.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 13:54:05.515] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 13:54:20.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 13:55:34.326] [Server thread/DEBUG] [mixin/]: Mixing tacz.ModernKineticGunScriptAPIMixin from sona.mixins.json into com.tacz.guns.item.ModernKineticGunScriptAPI
+[03May2025 13:55:46.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 13:55:46.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 13:56:09.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LJu4nn_L has made the advancement [Suit Up]
+[03May2025 13:56:50.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set LJu4nn_L's game mode to Survival Mode
