@@ -8865,3 +8865,45 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 13:18:22.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [03May2025 13:18:37.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [03May2025 13:19:09.666] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 13:20:03.611] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:ruin2
+[03May2025 13:20:08.590] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_entrance_0
+[03May2025 13:20:12.450] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:small_labyrinth
+[03May2025 13:20:17.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[03May2025 13:20:20.222] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:caff
+[03May2025 13:20:22.605] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:apartament
+[03May2025 13:20:22.856] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:build1
+[03May2025 13:20:46.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 13:20:46.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 13:20:54.168] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 13:22:26.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 13:22:32.697] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruins2
+[03May2025 13:22:32.798] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:firefighter
+[03May2025 13:23:16.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 13:23:22.967] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 13:24:44.819] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:house
+[03May2025 13:24:45.225] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:modern_house1
+[03May2025 13:24:50.593] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruins1
+[03May2025 13:25:26.905] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[03May2025 13:25:46.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 13:25:46.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 13:26:09.362] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:lighthouse
+[03May2025 13:26:19.490] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:mansion
+[03May2025 13:26:44.862] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/shelter
+[03May2025 13:26:50.487] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:market
+[03May2025 13:26:55.939] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombie_extreme:gas_station1
+[03May2025 13:26:57.981] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[03May2025 13:26:59.147] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of zombiekit:shelter/pond
+[03May2025 13:30:46.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 13:30:46.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 13:33:17.239] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[03May2025 13:34:46.117] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 13:34:50.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 13:35:11.317] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 13:35:46.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 13:35:46.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 13:38:02.387] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03May2025 13:38:30.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 13:38:36.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 13:39:22.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 13:39:40.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LJu4nn_L was blown up by Creeper
+[03May2025 13:39:41.846] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1746279581846
