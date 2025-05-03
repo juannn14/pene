@@ -8907,3 +8907,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 13:39:22.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [03May2025 13:39:40.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LJu4nn_L was blown up by Creeper
 [03May2025 13:39:41.846] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1746279581846
+[03May2025 13:40:02.313] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from sona.mixins.json into net.minecraft.world.CompoundContainer
+[03May2025 13:40:46.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 13:40:46.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 13:42:48.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 13:45:46.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 13:45:46.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 13:45:48.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[03May2025 13:46:48.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 13:47:43.764] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 13:47:44.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[03May2025 13:48:46.715] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 13:49:50.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
