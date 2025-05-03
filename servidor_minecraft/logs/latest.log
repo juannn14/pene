@@ -239,3 +239,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 12:06:47.411] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [03May2025 12:06:47.411] [Server thread/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: HELLO from server starting
 [03May2025 12:06:47.580] [Server thread/WARN] [ModernFix/]: Dedicated server took 40.615 seconds to load
+[03May2025 12:22:20.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LJu4nn_L[/127.175.4.117:59591] logged in with entity id 47 at (-386.38698739981, 66.0, 2293.9317190403594)
+[03May2025 12:22:20.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LJu4nn_L joined the game
+[03May2025 12:22:25.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4931ms or 98 ticks behind
+[03May2025 12:22:27.336] [Server thread/INFO] [ping-wheel/]: Channel update: LJu4nn_L -> default
+[03May2025 12:24:18.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 12:24:34.086] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 12:24:37.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 12:27:41.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[03May2025 12:31:18.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[03May2025 12:33:18.187] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[03May2025 12:35:20.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[03May2025 12:35:39.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 12:36:04.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 12:36:07.037] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[03May2025 12:37:11.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
