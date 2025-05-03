@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-03 12:57:01 +0000",
       "minecraft:taiga": "2025-05-02 20:37:14 +0000",
       "minecraft:frozen_river": "2025-05-02 19:55:01 +0000",
       "minecraft:beach": "2025-05-02 20:36:12 +0000",
@@ -2625,7 +2626,8 @@
       "cooked_porkchop": "2025-05-02 20:17:30 +0000",
       "sweet_berries": "2025-05-02 20:42:30 +0000",
       "apple": "2025-05-02 21:54:36 +0000",
-      "bread": "2025-05-02 20:39:57 +0000"
+      "bread": "2025-05-02 20:39:57 +0000",
+      "cooked_chicken": "2025-05-03 13:14:32 +0000"
     },
     "done": false
   },
