@@ -23,6 +23,7 @@
       "minecraft:taiga": "2025-05-02 20:37:14 +0000",
       "minecraft:frozen_river": "2025-05-02 19:55:01 +0000",
       "minecraft:beach": "2025-05-02 20:36:12 +0000",
+      "minecraft:dark_forest": "2025-05-04 03:32:12 +0000",
       "minecraft:river": "2025-05-02 20:36:07 +0000",
       "minecraft:snowy_plains": "2025-05-02 19:38:38 +0000",
       "minecraft:grove": "2025-05-02 19:40:07 +0000",
@@ -31,6 +32,7 @@
       "minecraft:forest": "2025-05-02 20:59:14 +0000",
       "minecraft:lush_caves": "2025-05-02 20:45:00 +0000",
       "minecraft:ice_spikes": "2025-05-02 19:55:32 +0000",
+      "minecraft:frozen_peaks": "2025-05-04 03:31:38 +0000",
       "minecraft:plains": "2025-05-02 20:35:30 +0000"
     },
     "done": false
@@ -2627,6 +2629,7 @@
       "cooked_porkchop": "2025-05-02 20:17:30 +0000",
       "cooked_mutton": "2025-05-03 13:24:35 +0000",
       "sweet_berries": "2025-05-02 20:42:30 +0000",
+      "cooked_beef": "2025-05-04 03:32:21 +0000",
       "apple": "2025-05-02 21:54:36 +0000",
       "bread": "2025-05-02 20:39:57 +0000",
       "cooked_chicken": "2025-05-03 13:14:32 +0000"
