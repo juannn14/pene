@@ -267,3 +267,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04May2025 02:51:37.910] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
 [04May2025 02:51:38.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [04May2025 02:51:47.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet has made the advancement [Stone Age]
+[04May2025 02:52:37.561] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04May2025 02:53:10.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet has made the advancement [Getting an Upgrade]
+[04May2025 02:53:31.810] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04May2025 02:54:10.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04May2025 02:56:12.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04May2025 02:56:25.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[04May2025 02:56:29.312] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[04May2025 02:56:35.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[04May2025 02:56:38.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[04May2025 02:56:41.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04May2025 02:56:42.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LJu4nn_L> -380, 66, 2288
+[04May2025 02:57:03.661] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04May2025 02:57:03.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[04May2025 02:58:16.662] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[04May2025 02:58:30.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[04May2025 02:59:08.564] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04May2025 02:59:16.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04May2025 02:59:18.263] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[04May2025 02:59:18.562] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04May2025 02:59:27.162] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[04May2025 03:01:34.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: farclet lost connection: Disconnected
+[04May2025 03:01:34.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet left the game
+[04May2025 03:01:34.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[04May2025 03:01:51.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: farclet[/127.131.32.27:43123] logged in with entity id 11100 at (-394.07252897419966, 75.0, 491.2965838346618)
+[04May2025 03:01:51.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: farclet joined the game
+[04May2025 03:01:51.645] [Server thread/INFO] [ping-wheel/]: Channel update: farclet -> default
+[04May2025 03:02:18.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LJu4nn_L> -380, 66, 2288
